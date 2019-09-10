@@ -1,9 +1,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>
-      ReadMe
-    </title>
   </head>
   <body>
     <header>
